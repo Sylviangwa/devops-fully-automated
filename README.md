@@ -63,7 +63,7 @@
     - Instance type: t2.micro
     - Security Group (Open): 3000 and 22 to 0.0.0.0/0
     - Key pair: Select or create a new keypair
-    - User data (Copy the following user data): https://github.com/Sylviangwa/devops-fully-automated-scripts/blob/main/prometheus-setup.sh
+    - User data (Copy the following user data): https://github.com/Sylviangwa/devops-fully-automated-scripts/blob/main/grafana-setup.sh
     - Launch Instance
 
 8) ###### Slack 
